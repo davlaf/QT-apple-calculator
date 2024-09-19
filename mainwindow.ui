@@ -29,6 +29,7 @@
 	text-align: right;
     font-family: arial;
 	height: 50px;
+	color: white;
 }
 
 QPushButton {
